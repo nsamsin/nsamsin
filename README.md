@@ -5,8 +5,6 @@ DevOps · Network Security · Firewalls Engineer 🔐
 
 ### 🛠 Tech stack & Tools
 
-### 🛠 Tech stack & Tools
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -22,9 +20,11 @@ DevOps · Network Security · Firewalls Engineer 🔐
 ### 📊 github
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nsamsin.nsamsin)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nsamsin&theme=dark)](https://github.com/nsamsin)
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsamsin&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&hide=issues,prs,contribs&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsamsin&layout=compact&langs_count=8&hide=html,css&theme=default)
-
+-->
 ---
 
 ### 🌍 elsewhere
